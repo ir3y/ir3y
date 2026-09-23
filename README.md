@@ -1,23 +1,18 @@
-# <p align="center">Hi there! 👋 I'm Niray</p>
+# <p align="center">Hi there! 👋 I'm iRay</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nightray256&color=yellow)
 
 ## About Me
 
-- 🎓 He / 18y / Developer
+- 🎓 He / 19y / Developer
 - 💻 Currently learning cyber security
-- 🎮 Apex / Minecraft / YuGiOh
-
-## Experience
-
-- "Didn't release" - Developer
-- [FDMSC](https://github.com/Nightray256/TutorialProject) - Tutorial website cooperation
+- 🎮 Apex / Minecraft 
 
 ## Languages and Tools
 
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,rust,react,nextjs,cpp,cs,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,rust,react,nextjs,cpp,cs,go)](https://skillicons.dev)
 
 **Learning**
 
